@@ -1,0 +1,4 @@
+map_name: Iwo_Jima
+games:
+- {game_name: Battle of Iwo Jima, file_name: Battle_of_Iwo_Jima.xml}
+version: 0
